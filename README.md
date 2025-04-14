@@ -16,7 +16,7 @@ I have proficiency in the following technologies and tools:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="20" height="20"> **JavaScript**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon" width="20" height="20"> **TypeScript**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="20" height="20"> **Python**
-- <img src="https://howtodoinjava.com/wp-content/uploads/2012/12/regex-regular-expression.png" alt="Regex" width="20" height="20">**Regex** (Text Processing Tool)
+- <img src="https://howtodoinjava.com/wp-content/uploads/2012/12/regex-regular-expression.png" alt="Regex" width="20" height="20">**Regex**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Icon" width="20" height="20"> **React**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Icon" width="20" height="20"> **Redux**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Icon" width="20" height="20"> **Bootstrap**
@@ -24,7 +24,7 @@ I have proficiency in the following technologies and tools:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Icon" width="20" height="20"> **Git**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Icon" width="20" height="20"> **GitHub**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM Icon" width="20" height="20"> **npm**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Icon" width="20" height="20"> **Linux**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Icon" width="20" height="20"> **os Linux**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS Icon" width="20" height="20"> **SASS**
 
 ## My Projects
