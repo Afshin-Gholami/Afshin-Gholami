@@ -19,7 +19,6 @@ I have proficiency in the following technologies and tools:
 - <img src="https://th.bing.com/th/id/OIP.uJ6kcui-NliW8z7hKe8FaQHaHa?cb=iwc2&w=720&h=720&rs=1&pid=ImgDetMain" alt="next Icon" width="20" height="20"> **Next js**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Icon" width="20" height="20"> **CSS**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS Icon" width="20" height="20"> **SASS**
-- <img src="https://th.bing.com/th/id/R.40c0ab13ebdb348c12da438b21ca9ee5?rik=fkjjRZlg6AIErA&pid=ImgRaw&r=0" alt="LESS Icon" width="20" height="20"> **Less**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Icon" width="20" height="20"> **Bootstrap**
 - <img src="https://th.bing.com/th/id/OIP.GyywkDaSBCIQCwz06gPd1AHaHa?cb=iwc2&w=512&h=512&rs=1&pid=ImgDetMain" alt="Tailwind Icon" width="20" height="20"> **Tailwind**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Icon" width="20" height="20"> **Docker**
